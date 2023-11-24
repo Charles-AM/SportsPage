@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "website",
+			"path": "."
+		},
+		{
+			"name": "bb",
+			"path": "../../Desktop/bb"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "website"
+	}
+}
